@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64627" started-at="2020-02-19T10:17:51Z" finished-at="2020-02-19T10:18:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64627" started-at="2020-02-19T10:17:51Z" finished-at="2020-02-19T10:18:55Z">
+      <class name="com.bookmyshow.tests.Testclass1">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase1" duration-ms="25227" started-at="2020-02-19T15:47:51Z" finished-at="2020-02-19T15:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase2" duration-ms="5941" started-at="2020-02-19T15:48:16Z" finished-at="2020-02-19T15:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase3" duration-ms="7653" started-at="2020-02-19T15:48:22Z" finished-at="2020-02-19T15:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase4" duration-ms="14749" started-at="2020-02-19T15:48:30Z" finished-at="2020-02-19T15:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase5" duration-ms="10058" started-at="2020-02-19T15:48:45Z" finished-at="2020-02-19T15:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method status="PASS" signature="testcase6()[pri:0, instance:com.bookmyshow.tests.Testclass1@34033bd0]" name="testcase6" duration-ms="903" started-at="2020-02-19T15:48:55Z" finished-at="2020-02-19T15:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- com.bookmyshow.tests.Testclass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
